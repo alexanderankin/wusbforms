@@ -6,7 +6,7 @@ This repository
 
 contains my work in working to update the technologies the site runs on.
 
-Jekyll Branch
+Node.js Branch
 -------------
 
-this one is going to be abandoned because I want to explore an option with a more standard backend, rather than try to hack something together with actual filesystem level IO and github api stuff.
+Gonna try to use express even though I dont know where Im going to be hosting this. Going to probably have to learn some templating engine more complicated then Jekyll's even though that one was so nice with its md layer and yaml variables.
