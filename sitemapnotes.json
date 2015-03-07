@@ -1,0 +1,32 @@
+{
+	"home":{
+		"home":"shows addable posts",
+		"dynamic":true
+	},
+	"about":"",
+	"schedule": {
+		"calendar":["days",{
+			"fullweek":["links to playlists","layout"]
+		}],
+		"dynamic":true
+	},
+	"playlists":{
+		"playlists":["List of playlists", "navigation to page n"],
+		"playlists rss":"rss version of same data",
+		"dynamic":true
+	},
+	"pledge!":"needs ssl",
+	"contact":{
+		"contact":[
+			"is also form, sends email address",
+			"checkout nodemailer"
+		],
+		"Facebook page":"",
+		"Twitter":""
+	},
+	"content billboard":"",
+	"create content":"CMS",
+	"sports":"",
+	"newsletter":"",
+	"stream help":""
+}
